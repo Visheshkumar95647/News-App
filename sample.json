@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 37,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WPVI-TV"
+      },
+      "author": null,
+      "title": "Philadelphia mass shooting: Vehicle matching description of car used at Cottman and Rising Sun impounded in Olney - WPVI-TV",
+      "description": "A vehicle matching the description of the car used in the Philadelphia mass shooting that injured 8 students at SEPTA bus stop has been impounded in Olney, according to police.",
+      "url": "https://6abc.com/philadelphia-mass-shooting-cottman-ave-and-rising-sun-northeast-high-school/14498943/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/14498973_030724-wpvi-northeast-shooting-vechile-impounded-4a-pkg-video-vid.jpg?w=1600",
+      "publishedAt": "2024-03-07T09:45:00Z",
+      "content": "PHILADELPHIA (WPVI) -- A vehicle matching the description of a car that was used in a mass shooting that left eight teens injured in Philadlephia's Burholme neighborhood Wednesday afternoon has been … [+4991 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Reuters",
+      "title": "US has a wrong perception of China, says foreign minister - Reuters",
+      "description": null,
+      "url": "https://www.reuters.com/world/china/us-has-wrong-perception-china-says-foreign-minister-2024-03-07/",
+      "urlToImage": null,
+      "publishedAt": "2024-03-07T09:20:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Budget 2024: Jeremy Hunt cuts National Insurance again as election looms - BBC.com",
+      "description": "But Labour says many people will still be worse off because of existing freezes to income tax bands.",
+      "url": "https://www.bbc.com/news/uk-politics-68488467",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14721/production/_132854738_huntlowerresukparliament.png",
+      "publishedAt": "2024-03-07T07:04:48Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Natasha Bertrand",
+      "title": "Filipino seafarers killed in first fatal Houthi attack on commercial shipping - CNN",
+      "description": "A Houthi ballistic missile attack on a commercial ship in the Gulf of Aden resulted in fatalities among the crew members, a US official told CNN, marking the first time that the Iran-backed militant group has killed anyone as part of their ongoing attacks on …",
+      "url": "https://www.cnn.com/2024/03/06/politics/crew-members-killed-houthi-attack/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2024-03-06t150754z-2086069729-rc2kzs9e5zu9-rtrmadp-3-israel-palestinians-shipping-yemen-stills.JPG?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-03-07T07:01:00Z",
+      "content": "Two Filipino seafarers are among the dead after a Houthi ballistic missile struck a commercial ship in the Gulf of Aden, marking the first fatal attack by the Iran-backed militant group in its ongoin… [+4886 chars]"
+    },
+    {
+      "source": {
+        "id": "axios",
+        "name": "Axios"
+      },
+      "author": "Axios",
+      "title": "Alabama governor signs IVF protection bill into law - Axios",
+      "description": null,
+      "url": "https://www.axios.com/2024/03/07/alabama-ivf-fertility-protection-bill",
+      "urlToImage": null,
+      "publishedAt": "2024-03-07T06:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "DAVID SHARP, PATRICK WHITTLE",
+      "title": "Evidence of traumatic brain injury in shooter who killed 18 in deadliest shooting in Maine history - The Associated Press",
+      "description": "Robert Card, an Army reservist who shot and killed 18 people in Maine last year, had significant evidence of traumatic brain injuries. That's according to a brain tissue analysis by researchers from Boston University that was released by Card's family Wednesd…",
+      "url": "https://apnews.com/article/maine-shooting-lewiston-victims-commission-5ff6d30d8c3f445e8a5431d509cfc936",
+      "urlToImage": "https://dims.apnews.com/dims4/default/104029e/2147483647/strip/true/crop/2280x1283+0+119/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F0e%2Ffd%2F679c7f502a718f4c6fdd60f85972%2F75757d86b7034a82b064216f0fdf676e",
+      "publishedAt": "2024-03-07T05:52:53Z",
+      "content": "AUGUSTA, Maine (AP) Robert Card, an Army reservist who shot and killed 18 people in Maine last year, had significant evidence of traumatic brain injuries, according to a brain tissue analysis by rese… [+4002 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NBCSports.com"
+      },
+      "author": "Mike Florio",
+      "title": "In NIL world, Nick Saban wondered whether \"maybe this doesn't work anymore\" - NBC Sports",
+      "description": "From the moment college football players gained both the freedom to change teams and to make money — freedoms college coaches have enjoyed for years — it was clear that former Alabama coach Nick Saban didn't like it.",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/in-nil-world-nick-saban-wondered-whether-maybe-this-doesnt-work-anymore",
+      "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/7939584/2147483647/strip/true/crop/2012x1132+2+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F2021-10%2FSaban_USA.jpg",
+      "publishedAt": "2024-03-07T05:00:32Z",
+      "content": "From the moment college football players gained both the freedom to change teams and to make money freedoms college coaches have enjoyed for years it was clear that former Alabama coach Nick Saban di… [+3591 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Edward-Isaac Dovere",
+      "title": "Biden’s allies are begging him to fight harder. The State of the Union is his chance to do so. - CNN",
+      "description": "A handful of Democratic governors made their way through a gaggle of their colleagues last month to tell President Joe Biden directly what they’ve been stressing behind the scenes: He needs to be fighting harder.",
+      "url": "https://www.cnn.com/2024/03/07/politics/joe-biden-state-of-the-union/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2054036677.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-03-07T05:00:00Z",
+      "content": "A handful of Democratic governors made their way through a gaggle of their colleagues last month to tell President Joe Biden directly what theyve been stressing behind the scenes: He needs to be figh… [+9630 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Prosecutors drop charges in Hotel California lyrics case - BBC.com",
+      "description": "New evidence prompted concerns about the fairness of the trial against three men facing criminal charges.",
+      "url": "https://www.bbc.com/news/world-us-canada-68494126",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/072B/production/_132853810_gettyimages-2033875945.jpg",
+      "publishedAt": "2024-03-07T04:56:54Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-hill",
+        "name": "The Hill"
+      },
+      "author": "Miranda Nazzaro",
+      "title": "FDA finds lead contamination in certain ground cinnamon products, asks manufacturers to voluntarily recall items - The Hill",
+      "description": "The U.S. Food and Drug Administration (FDA) found elevated levels of lead in six brands of ground cinnamon spice, months after the agency recalled lead-contaminated applesauce pouches last fall. The FDA on Wednesday said the six brands of ground cinnamon cont…",
+      "url": "https://thehill.com/policy/healthcare/4514813-fda-finds-lead-contamination-in-certain-ground-cinnamon-products-asks-manufacturers-to-voluntarily-recall-items/",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2024/03/GettyImages-1167171569.jpg?w=1280",
+      "publishedAt": "2024-03-07T04:23:00Z",
+      "content": "Skip to content\r\nThe U.S. Food and Drug Administration (FDA) found elevated levels of lead in six brands of ground cinnamon spice, months after the agency recalled lead-contaminated applesauce pouche… [+1902 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "David Propper",
+      "title": "Biotech company reveals breakthrough that could lead to revival of extinct woolly mammoth - New York Post ",
+      "description": "“It will walk like a Woolly Mammoth, look like one, sound like one, but most importantly it will be able to inhabit the same ecosystem previously abandoned by the Mammoth’s extinction,” the company…",
+      "url": "https://nypost.com/2024/03/06/us-news/breakthrough-reached-that-could-lead-to-revival-of-woolly-mammoth/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/03/purchase-order-77834050.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2024-03-07T04:08:00Z",
+      "content": "The woolly mammoth could roam the Earth once again.\r\nThats the goal of Colossal Biosciences as the biotech company announced a major breakthrough Wednesday in its mission to revive the 6-ton, 16-foot… [+2633 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hollywood Reporter"
+      },
+      "author": "Brande Victorian",
+      "title": "Naomi Watts on Babe Paley’s ‘Feud’ Story Arc and If She and Capote Ever Rekindled - Hollywood Reporter",
+      "description": "The actress transformed physically and emotionally to portray the “swan” whose betrayal by Truman Capote affected her until her death.",
+      "url": "http://www.hollywoodreporter.com/tv/tv-features/feud-capote-vs-the-swans-naomi-watts-babe-paley-death-capote-1235845097/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2024/03/naomiwatts.jpg?w=1024",
+      "publishedAt": "2024-03-07T04:00:27Z",
+      "content": "[This story contains spoilers from episode seven of Feud: Capote vs. The Swans.]\r\nAmerican socialite and former magazine editor Babe Paley was married to CBS founder William S. Paley for 31 years. Bu… [+9539 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ScienceAlert"
+      },
+      "author": "Clare Watson",
+      "title": "Plastic Found Inside More Than 50% of Plaques From Clogged Arteries - ScienceAlert",
+      "description": "Plastics are now everywhere, with tiny fragments found in several major organs of the human body, including the placenta.",
+      "url": "https://www.sciencealert.com/plastic-found-inside-more-than-50-of-plaques-from-clogged-arteries",
+      "urlToImage": "https://www.sciencealert.com/images/2024/03/CrossSectionOfCoronaryArteryAtherosclerosis.jpg",
+      "publishedAt": "2024-03-07T03:43:50Z",
+      "content": "Plastics are now everywhere, with tiny fragments found in several major organs of the human body, including the placenta.\r\nGiven how easily the microscopic particles infiltrate our tissues, it's vita… [+4283 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Bradford Betz",
+      "title": "Katie Porter suggests billionaires rigged California Senate primary after losing to Adam Schiff - Fox News",
+      "description": "Senate candidate Katie Porter, D-Calif., on Wednesday suggested that the California primary race was rigged by “an onslaught of billionaires\" after losing to Rep. Adam Schiff, D-Calif.",
+      "url": "https://www.foxnews.com/politics/katie-porter-suggests-billionaires-rigged-california-senate-primary-after-losing-adam-schiff",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/03/Porter-Schiff.jpg",
+      "publishedAt": "2024-03-07T02:36:00Z",
+      "content": "Join Fox News for access to this content\r\nPlus special access to select articles and other premium content with your account - free of charge.\r\nPlease enter a valid email address.\r\nBy entering your e… [+2459 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Kelsey Vlamis, Alistair Barr",
+      "title": "Google engineer ran secret startup in China while stealing AI tech: DOJ - Business Insider",
+      "description": "A Google software engineer was indicted and accused of stealing confidential AI technology while secretly working with companies in China.",
+      "url": "https://www.businessinsider.com/google-engineer-ran-secret-startup-china-stealing-ai-tech-doj-2024-3",
+      "urlToImage": "https://i.insider.com/65e90d8bce7f1785b2e73552?width=1200&format=jpeg",
+      "publishedAt": "2024-03-07T02:18:00Z",
+      "content": "A Google employee indicted by the US Department of Justice has been accused of stealing confidential AI technology while secretly working for tech companies in China.\r\nThe indictment, unsealed on Wed… [+3134 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "MORGAN LEE",
+      "title": "\"Rust\" armorer Hannah Gutierrez-Reed convicted of involuntary manslaughter - The Associated Press",
+      "description": "A jury has convicted a movie weapons supervisor of involuntary manslaughter in the fatal shooting of a cinematographer by actor Alec Baldwin on the set of the Western film “Rust.” Wednesday's verdict capped a two-week trial of movie armorer Hannah Gutierrez-R…",
+      "url": "https://apnews.com/article/closing-arguments-trial-baldwin-shooting-3fdc75c2510804065a19a9fa374cfefd",
+      "urlToImage": "https://dims.apnews.com/dims4/default/6be4fa2/2147483647/strip/true/crop/3000x1688+0+140/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fce%2F00%2F88f177856f15fea216bf75eef835%2F66cacc0b76744e1e966c4c062d2dcd09",
+      "publishedAt": "2024-03-07T01:55:00Z",
+      "content": "SANTA FE, N.M. (AP) A jury convicted a movie weapons supervisor of involuntary manslaughter Wednesday in the fatal shooting of a cinematographer by actor Alec Baldwin during a rehearsal on the set of… [+5972 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera",
+      "title": "North Korea’s Kim Jong Un orders heightened war preparations - Al Jazeera English",
+      "description": "Latest comments come as US and South Korea hold joint military exercises involving thousands of troops.",
+      "url": "https://www.aljazeera.com/news/2024/3/7/north-koreas-kim-jong-un-orders-heightened-war-preparations",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/03/2024-03-06T221758Z_1556777315_RC2MG6AXL8IY_RTRMADP_3_NORTHKOREA-MILITARY-1709773529.jpg?resize=1920%2C1440",
+      "publishedAt": "2024-03-07T01:31:52Z",
+      "content": "North Korean leader Kim Jong Un has ordered heightened readiness for war after inspecting troops at a major military operations base in the countrys west.\r\nThe state-run Korean Central News Agency (K… [+1719 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PBS"
+      },
+      "author": "William Brangham, Murrey Jacobson, Shoshana Dubnow",
+      "title": "Measles outbreak raises concerns about drop in vaccinations - PBS NewsHour",
+      "description": "There were 58 reported cases of measles in the U.S. during all of 2023. But there's already been 41 cases across 16 states so far this year. The outbreak of this highly contagious virus is cause for concern for many public health departments. Dr. Paul Offit, …",
+      "url": "https://www.pbs.org/newshour/show/measles-outbreak-raises-concerns-about-drop-in-vaccinations",
+      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2024/03/measles-1024x683.jpg",
+      "publishedAt": "2024-03-07T01:25:33Z",
+      "content": "William Brangham:\r\nGeoff, thanks to widespread vaccination, measles was declared eliminated from the U.S. back in 2000. So seeing these outbreaks in different states, while they're still small in num… [+1030 chars]"
+    }
+  ]
+}
