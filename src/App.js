@@ -12,7 +12,7 @@ const App = () => {
 
   return (
     <Router>
-      <div style={{ backgroundColor: 'red' }}>
+      <div style={{ backgroundColor: 'black' }}>
         <Navbar s={{ backgroundColor: 'black', color: 'red' }} />
         <LoadingBar
           color='#f11946'
